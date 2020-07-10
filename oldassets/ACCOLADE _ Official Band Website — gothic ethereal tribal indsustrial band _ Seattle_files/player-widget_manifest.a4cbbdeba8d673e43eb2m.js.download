@@ -1,0 +1,37 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+!function(e){function r(n){if(t[n])return t[n].exports;var o=t[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,r),o.l=!0,o.exports}var n=window.webpackJsonp;window.webpackJsonp=function(t,a,c){for(var i,u,f,l=0,p=[];l<t.length;l++)u=t[l],o[u]&&p.push(o[u][0]),o[u]=0;for(i in a)Object.prototype.hasOwnProperty.call(a,i)&&(e[i]=a[i]);for(n&&n(t,a,c);p.length;)p.shift()();if(c)for(l=0;l<c.length;l++)f=r(r.s=c[l]);return f};var t={},o={2:0};r.e=function(e){function n(){i.onerror=i.onload=null,clearTimeout(u);var r=o[e];0!==r&&(r&&r[1](new Error("Loading chunk "+e+" failed.")),o[e]=void 0)}var t=o[e];if(0===t)return new Promise(function(e){e()});if(t)return t[2];var a=new Promise(function(r,n){t=o[e]=[r,n]});t[2]=a;var c=document.getElementsByTagName("head")[0],i=document.createElement("script");i.type="text/javascript",i.charset="utf-8",i.async=!0,i.timeout=12e4,r.nc&&i.setAttribute("nonce",r.nc),i.src=r.p+""+({0:"player-widget_vendor",1:"player-widget"}[e]||e)+"."+{0:"65ade78b2890320ae821",1:"977e79682250b9d2f7af"}[e]+"m.js";var u=setTimeout(n,12e4);return i.onerror=i.onload=n,c.appendChild(i),a},r.m=e,r.c=t,r.d=function(e,n,t){r.o(e,n)||Object.defineProperty(e,n,{configurable:!1,enumerable:!0,get:t})},r.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(n,"a",n),n},r.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},r.p="/media/js/",r.oe=function(e){throw console.error(e),e}}([]);
+//# sourceMappingURL=player-widget_manifest.5cab8ba02333ef67ab6bm.js.map
+
+}
+/*
+     FILE ARCHIVED ON 23:31:14 Feb 11, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:11:03 Jul 06, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 512.842
+  exclusion.robots: 0.205
+  RedisCDXSource: 1.25
+  captures_list: 473.592
+  esindex: 0.015
+  CDXLines.iter: 15.236 (3)
+  PetaboxLoader3.datanode: 661.907 (5)
+  PetaboxLoader3.resolve: 149.389 (3)
+  LoadShardBlock: 453.153 (3)
+  exclusion.robots.policy: 0.191
+*/

@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Philosopher';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Philosopher Regular'), local('Philosopher-Regular'), url(https://web.archive.org/web/20190207054111im_/http://fonts.gstatic.com/s/philosopher/v10/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poiret One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poiret One'), local('PoiretOne-Regular'), url(https://web.archive.org/web/20190207054111im_/http://fonts.gstatic.com/s/poiretone/v7/UqyVK80NJXN4zfRgbdfbo55cUg.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 05:41:11 Feb 07, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:10:59 Jul 06, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.027
+  PetaboxLoader3.datanode: 35.271 (4)
+  CDXLines.iter: 22.708 (3)
+  LoadShardBlock: 31.98 (3)
+  exclusion.robots: 0.183
+  PetaboxLoader3.resolve: 113.897
+  exclusion.robots.policy: 0.17
+  load_resource: 151.084
+  RedisCDXSource: 37.579
+  captures_list: 96.484
+*/

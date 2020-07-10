@@ -1,0 +1,14 @@
+body {
+    margin:20px;
+}
+img {
+    float: left;
+    margin:20px;
+}
+a {
+    color:black;
+}
+a:hover {
+    color: red;
+    background-color:yellow;
+}
