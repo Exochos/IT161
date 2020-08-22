@@ -1,0 +1,80 @@
+/*  BIG WEBSITE - JEREMY */
+
+html {
+    background-color: #ccc;
+    font-family: Montserrat, sans-serif;
+}
+
+main {
+    background-color: #fff;
+    width: 80%;
+    margin: auto;
+}
+/*  Embed a data*/
+.embed-container { 
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+}
+.embed-container iframe {
+     position: absolute; 
+     top: 0; 
+     left: 0; 
+     width: 100%; 
+     height: 100%; 
+}
+
+h1 a {
+    text-decoration: none;
+    padding: 1em;
+}
+
+li {
+    font-size: 1em;
+    margin:.75em;
+    font-size:1.25em;
+}
+section {
+    float: left;
+    width:66%;
+    margin: 5px;
+}
+
+aside {
+    float: right;
+    width: 33%;
+}
+dt {
+    font-weight: bold;
+}
+
+footer {
+    padding: 2em;
+    text-align: center;
+    clear: both;
+    padding: 1em;
+}
+header {
+    padding-top: .3em;
+    font-family: Montserrat, sans-serif;
+}
+
+
+@media all and (max-width:800px) {
+    main {
+        width: 100%;
+        margin: auto;
+    }
+    
+    section {
+        float: none;
+        width:100%;
+    }
+    
+    aside {
+        float: none;
+        width: 100%;
+    }
+}

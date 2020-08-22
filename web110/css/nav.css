@@ -1,0 +1,17 @@
+body {
+    width:100%;
+}
+img {
+    float: right;
+    margin:20px;
+}
+h1 {
+    background-color: rgb(27, 95, 151);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    width: 100%;
+}
+nav {
+    width: 100%;
+}
